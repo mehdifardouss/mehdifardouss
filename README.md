@@ -1,16 +1,57 @@
-## Hi there 👋
+# Mehdi Fardouss
 
-<!--
-**mehdifardouss/mehdifardouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a web developer focused on building modern, practical and user-friendly web applications.
+
+I enjoy learning through real-world projects and continuously improving my development skills.
+
+## Technologies
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+## Projects
+
+### Gaming Store
+
+A modern gaming store web application built with React.
+
+### Casa Glass Expo
+
+A modern website focused on premium design, visual presentation and user experience.
+
+### Bus Ticket Management
+
+A JavaScript application for managing bus trips, tickets, passengers and available seats.
+
+## Currently Learning
+
+- Advanced JavaScript
+- React
+- Node.js
+- Backend development
+- Git and GitHub
+
+## Contact
+
+LinkedIn: Coming soon
+
+Portfolio: Coming soon
