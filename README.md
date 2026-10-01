@@ -45,25 +45,6 @@ My interests include web development, software development, UI/UX design and mod
 - Claude
 - Vercel
 - Netlify
-
-## Projects
-
-### Gaming Store
-
-A modern gaming store web application focused on creating a clean and interactive user experience.
-
-### Casa Glass Expo
-
-A modern website focused on premium visual design, responsive interfaces and user experience.
-
-### Bus Ticket Management
-
-A JavaScript application for managing trips, tickets, passengers and available seats.
-
-### JavaScript Challenges
-
-A collection of JavaScript exercises and challenges covering programming fundamentals, conditions, loops, arrays, functions and objects.
-
 ## Currently Learning
 
 - Advanced JavaScript
