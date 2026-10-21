@@ -15,7 +15,7 @@ My interests include web development, software development, UI/UX design and mod
 ### Programming Languages
 
 - JavaScript
-- Python
+- 
 - C
 
 ### Frontend Development
