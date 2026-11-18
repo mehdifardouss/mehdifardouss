@@ -1,80 +1,32 @@
-<!-- ═══════════════════════════════════════════════════════════ ⚠️ Remplace YOUR_USERNAME par ton pseudo GitHub (partout) ═══════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=Mehdi%20Fardouss&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="header" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Salut+%F0%9F%91%8B+je+suis+Mehdi;Je+construis+des+applications+web+modernes;Passionn%C3%A9+par+l'UI%2FUX+et+le+clean+code;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" /> </a> <br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:0891b2&height=200&section=header&text=Mehdi%20Fardouss&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=62" width="100%" alt="Mehdi Fardouss - Full-Stack Web Developer" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Applications+web+modernes+et+pratiques;Interfaces+claires+et+agr%C3%A9ables+%C3%A0+utiliser;Apprentissage+continu+par+les+projets" alt="Typing animation" /> <br/> <img src="https://img.shields.io/badge/Full--Stack-Web%20Developer-4f46e5?style=for-the-badge" alt="Full-Stack Web Developer" /> <img src="https://img.shields.io/badge/Maroc-Marrakech-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maroc" /> <img src="https://img.shields.io/badge/Statut-En%20apprentissage%20continu-0891b2?style=for-the-badge" alt="Statut" /> </div> <br/>
+À propos
 
-Afficher l'image Afficher l'image Afficher l'image
+Développeur web, je conçois des applications modernes, pratiques et agréables à utiliser.
 
-</div>
-👨‍💻 À propos
-js
-const mehdi = {
-  role: "Full-Stack Web Developer",
-  focus: ["Web apps modernes", "UI/UX", "Clean code"],
-  learningBy: "Construire des projets réels",
-  motto: "Comprendre les bases avant d'aller plus loin",
-  status: "En apprentissage continu 🚀",
-};
+J'apprends en construisant des projets, en résolvant des problèmes concrets et en testant de nouvelles technologies. Je donne la priorité aux fondamentaux avant de passer à des concepts plus avancés.
 
-Je suis développeur web et je crée des applications modernes, pratiques et agréables à utiliser. J'apprends en construisant, en résolvant des problèmes et en testant de nouvelles technologies.
+Centres d'intérêt : développement web, développement logiciel, design UI/UX et outils de développement modernes.
 
-💡 Mes centres d'intérêt : développement web, développement logiciel, UI/UX design et outils de dev modernes.
+<br/>
+Technologies
+Catégorie	Technologies
+Langages	<img src="https://skillicons.dev/icons?i=js,php,c&theme=dark" alt="JavaScript, PHP, C" />
+Frontend	<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, React" />
+Backend	<img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" alt="Node.js, Laravel" />
+UI / UX	<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+Outils	<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="48" />
+Déploiement	<img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" alt="Vercel, Netlify" />
+<br/>
+Compétences UI / UX
+<img src="https://img.shields.io/badge/UI%20Design-1e293b?style=flat-square&logo=figma&logoColor=white" alt="UI Design" /> <img src="https://img.shields.io/badge/UX%20Design-1e293b?style=flat-square&logo=figma&logoColor=white" alt="UX Design" /> <img src="https://img.shields.io/badge/Responsive%20Design-1e293b?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" /> <img src="https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <br/>
+En cours d'apprentissage
+<img src="https://img.shields.io/badge/JavaScript%20avanc%C3%A9-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript avancé" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/D%C3%A9veloppement%20backend-4f46e5?style=flat-square" alt="Développement backend" /> <img src="https://img.shields.io/badge/Software%20Engineering-0891b2?style=flat-square" alt="Software Engineering" /> <img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Design" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git et GitHub" /> <br/>
+Approche de développement
+Construire	Résoudre	Expérimenter
+J'apprends en réalisant de vrais projets.	Je traite les problèmes concrets étape par étape.	Je teste de nouvelles technologies pour progresser.
+<br/>
+Contact
 
-🛠️ Stack technique
-<div align="center">
-Langages
-<img src="https://skillicons.dev/icons?i=js,php,c&theme=dark" alt="languages" />
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="frontend" />
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" alt="backend" />
-UI / UX
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="design" />
-Outils & Déploiement
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="tools" /> </div> <details> <summary><b>🎨 UI/UX — ce que je pratique</b></summary> <br/>
-✅ UI Design
-✅ UX Design
-✅ Responsive Design
-✅ Prototypage avec Figma
-🤖 Workflow assisté par Claude
-</details>
-🌱 En cours d'apprentissage
-Domaine	Progression
-⚡ JavaScript avancé	Afficher l'image
-⚛️ React	Afficher l'image
-🟢 Node.js & Backend	Afficher l'image
-🏗️ Software Engineering	Afficher l'image
-🎨 UI/UX Design	Afficher l'image
-🔧 Git & GitHub	Afficher l'image
-🧭 Ma façon de travailler
-<table> <tr> <td width="33%" align="center">
-🔨 Build
+<a href="https://github.com/mehdifardouss"><img src="https://img.shields.io/badge/GitHub-mehdifardouss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/badge/LinkedIn-Bient%C3%B4t%20disponible-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn bientôt" /> <img src="https://img.shields.io/badge/Portfolio-Bient%C3%B4t%20disponible-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio bientôt" />
 
-J'apprends en construisant de vrais projets
-
-</td> <td width="33%" align="center">
-🧩 Solve
-
-Je résous des problèmes concrets, étape par étape
-
-</td> <td width="33%" align="center">
-🧪 Experiment
-
-J'expérimente de nouvelles technologies
-
-</td> </tr> </table>
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="top langs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" /> </div>
-🐍 Activité
-<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </div>
-
-📌 Le snake nécessite un petit workflow GitHub Action (voir instructions séparées).
-
-🤝 Me contacter
-<div align="center">
-
-LinkedIn Portfolio GitHub
-
-</div>
-<div align="center">
-
-« Build. Break. Learn. Repeat. »
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=120&section=footer" width="100%" alt="footer" /> </div>
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="" />
