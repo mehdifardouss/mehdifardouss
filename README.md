@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:0891b2&height=200&section=header&text=Mehdi%20Fardouss&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=62" width="100%" alt="Mehdi Fardouss - Full-Stack Web Developer" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Applications+web+modernes+et+pratiques;Interfaces+claires+et+agr%C3%A9ables+%C3%A0+utiliser;Apprentissage+continu+par+les+projets" alt="Typing animation" /> <br/> <img src="https://img.shields.io/badge/Full--Stack-Web%20Developer-4f46e5?style=for-the-badge" alt="Full-Stack Web Developer" /> <img src="https://img.shields.io/badge/Maroc-Marrakech-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maroc" /> <img src="https://img.shields.io/badge/Statut-En%20apprentissage%20continu-0891b2?style=for-the-badge" alt="Statut" /> </div> <br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:0891b2&height=200&section=header&text=Mehdi%20Fardouss&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=62" width="100%" alt="Mehdi Fardouss - Full-Stack Web Developer" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Applications+web+modernes+et+pratiques;Interfaces+claires+et+agr%C3%A9ables+%C3%A0+utiliser;Apprentissage+continu+par+les+projets" alt="Typing animation" /> <br/> <img src="https://img.shields.io/badge/Full--Stack-Web%20Developer-4f46e5?style=for-the-badge" alt="Full-Stack Web Developer" /> <img src="https://img.shields.io/badge/Statut-Ouvert%20aux%20opportunit%C3%A9s-22c55e?style=for-the-badge" alt="Ouvert aux opportunités" /> <img src="https://img.shields.io/badge/Apprentissage-Continu-0891b2?style=for-the-badge" alt="Apprentissage continu" /> </div> <br/>
 À propos
 
 Développeur web, je conçois des applications modernes, pratiques et agréables à utiliser.
@@ -10,11 +10,15 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 <br/>
 Technologies
 Catégorie	Technologies
-Langages	<img src="https://skillicons.dev/icons?i=js,php,c&theme=dark" alt="JavaScript, PHP, C" />
-Frontend	<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, React" />
-Backend	<img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" alt="Node.js, Laravel" />
+Langages	<img src="https://skillicons.dev/icons?i=js,php,c,py,bash&theme=dark" alt="JavaScript, PHP, C, Python, Bash" />
+Frontend	<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Redux, Tailwind, Bootstrap" />
+Backend	<img src="https://skillicons.dev/icons?i=nodejs,laravel,php&theme=dark" alt="Node.js, Laravel, PHP" />
+Bases de données	<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
+DevOps & Systèmes	<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github&theme=dark" alt="Docker, Linux, Bash, Git, GitHub" />
+API & Tests	<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" />
+Gestion de projet	<img src="https://skillicons.dev/icons?i=jira&theme=dark" alt="Jira" /> <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Scrum" height="48" /> <img src="https://img.shields.io/badge/Agile-1e293b?style=for-the-badge" alt="Agile" height="48" />
 UI / UX	<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-Outils	<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="48" />
+Outils	<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="48" />
 Déploiement	<img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" alt="Vercel, Netlify" />
 <br/>
 Compétences UI / UX
@@ -26,7 +30,8 @@ Construire	Résoudre	Expérimenter
 J'apprends en réalisant de vrais projets.	Je traite les problèmes concrets étape par étape.	Je teste de nouvelles technologies pour progresser.
 <br/>
 Contact
+<div align="center"> <img src="./assets/contact.svg" width="100%" alt="Terminal de contact : whoami, status, contact" /> <br/>
 
 <a href="https://github.com/mehdifardouss"><img src="https://img.shields.io/badge/GitHub-mehdifardouss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/badge/LinkedIn-Bient%C3%B4t%20disponible-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn bientôt" /> <img src="https://img.shields.io/badge/Portfolio-Bient%C3%B4t%20disponible-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio bientôt" />
 
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="" />
+</div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="" />
