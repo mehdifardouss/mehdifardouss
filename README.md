@@ -50,17 +50,7 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 
 <br/>
 
-## En cours d'apprentissage
 
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/l-js.svg" alt="JavaScript avancé" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/l-react.svg" alt="React" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/l-node.svg" alt="Node.js" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/l-backend.svg" alt="Développement backend" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/l-se.svg" alt="Software Engineering" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/l-uiux.svg" alt="UI/UX Design" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/l-git.svg" alt="Git et GitHub" />
-
-<br/>
 
 ## Approche de développement
 
