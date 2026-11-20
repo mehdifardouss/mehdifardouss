@@ -61,21 +61,8 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 
 <br/>
 
-## GitHub Statistics
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mehdifardouss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdifardouss&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdifardouss&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-<br/>
 
 ## Approche de développement
 
