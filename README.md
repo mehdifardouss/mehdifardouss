@@ -31,10 +31,25 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 |:--|:--|
 | **Langages** | <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML, CSS, Bootstrap" /> |
-| **Outils** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /> |
+| **Outils de développement** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /> |
 | **Gestion de projet** | <img src="https://skillicons.dev/icons?i=jira&theme=dark" alt="Jira" /> <img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/t-scrum.svg" alt="Scrum" /> <img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/t-agile.svg" alt="Agile" /> |
 | **UI / UX** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> |
+| **Déploiement** | <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" alt="Vercel, Netlify" /> |
 | **Outils complémentaires** | <img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/t-claude.svg" alt="Claude" /> |
+
+<br/>
+
+## Compétences techniques
+
+- Manipulation du DOM
+- Gestion des événements JavaScript
+- Validation des formulaires
+- Gestion des données avec LocalStorage
+- Opérations CRUD
+- Responsive Design
+- Gestion de versions avec Git
+- Branches, commits et merges
+- Déploiement de projets web
 
 <br/>
 
@@ -42,13 +57,12 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 
 | Catégorie | Technologies |
 |:--|:--|
-| **Langages** | <img src="https://skillicons.dev/icons?i=php,python,c,bash&theme=dark" alt="PHP, Python, C, Bash" /> |
+| **Langages** | <img src="https://skillicons.dev/icons?i=php,python,c&theme=dark" alt="PHP, Python, C" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,redux,tailwind&theme=dark" alt="React, Redux, Tailwind CSS" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" alt="Laravel, Node.js" /> |
 | **Bases de données** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" /> SQL |
 | **API & Tests** | <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /> API REST |
 | **DevOps & Systèmes** | <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" alt="Docker, Linux" /> |
-| **Déploiement** | <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" alt="Vercel, Netlify" /> |
 
 <br/>
 
@@ -61,8 +75,29 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 
 <br/>
 
+## GitHub Statistics
 
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mehdifardouss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdifardouss&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdifardouss&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdifardouss&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mehdifardouss&style=flat-square&color=4f46e5" alt="Profile views" />
+
+</div>
+
+<br/>
 
 ## Approche de développement
 
@@ -89,4 +124,3 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="" />
-
