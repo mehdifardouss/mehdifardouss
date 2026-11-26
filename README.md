@@ -87,18 +87,4 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 
 ## Contact
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/contact.svg" width="100%" alt="Terminal de contact : whoami, status, contact" />
-
-<br/>
-
-<a href="https://github.com/mehdifardouss"><img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-github.svg" alt="GitHub" /></a>
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-linkedin.svg" alt="LinkedIn" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-portfolio.svg" alt="Portfolio" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="" />
