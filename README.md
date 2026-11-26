@@ -94,8 +94,8 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 <br/>
 
 <a href="https://github.com/mehdifardouss"><img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-github.svg" alt="GitHub" /></a>
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-linkedin.svg" alt="LinkedIn" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-portfolio.svg" alt="Portfolio" />
+<img href="linkedin.com/in/mahdi-fardouss-23a973436/" src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-linkedin.svg" alt="LinkedIn" />
+<img href="https://github.com/mehdifardouss" src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/c-portfolio.svg" alt="Portfolio" />
 
 </div>
 
