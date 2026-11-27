@@ -1,19 +1,5 @@
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:0891b2&height=200&section=header&text=Mehdi%20Fardouss&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=62" width="100%" alt="Mehdi Fardouss - Full-Stack Web Developer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Applications+web+modernes+et+pratiques;Interfaces+claires+et+agr%C3%A9ables+%C3%A0+utiliser;Apprentissage+continu+par+les+projets" alt="Typing animation" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/h-fullstack.svg" alt="Full-Stack Web Developer" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/h-statut.svg" alt="Ouvert aux opportunités" />
-<img src="https://raw.githubusercontent.com/mehdifardouss/mehdifardouss/main/assets/badges/h-apprentissage.svg" alt="Apprentissage continu" />
-
-</div>
-
-<br/>
 
 ## À propos
 
