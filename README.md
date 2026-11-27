@@ -101,3 +101,5 @@ Centres d'intérêt : développement web, développement logiciel, design UI/UX 
 
 <br/>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="" />
